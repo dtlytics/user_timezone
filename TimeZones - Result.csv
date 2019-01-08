@@ -1,0 +1,312 @@
+Country,Region,Region ID,Winter,Summer,CorrectedSummerMin,CorrectedWinterMax
+United States,California,21137,-8,-7,11,44
+United States,New York,21167,-5,-4,11,44
+United States,Texas,21176,-6,-5,11,44
+United States,Florida,21142,-5,-4,11,44
+United States,Illinois,21147,-6,-5,11,44
+United States,Washington,21180,-8,-7,11,44
+United States,Pennsylvania,21171,-5,-4,11,44
+United States,New Jersey,21164,-5,-4,11,44
+United States,North Carolina,21160,-5,-4,11,44
+United States,Georgia,21143,-5,-4,11,44
+United States,Michigan,21155,-5,-4,11,44
+United States,Massachusetts,21152,-5,-4,11,44
+United States,Virginia,21178,-5,-4,11,44
+United States,Ohio,21168,-5,-4,11,44
+United States,Colorado,21138,-7,-6,11,44
+United States,Oregon,21170,-8,-7,11,44
+United States,Minnesota,21156,-6,-5,11,44
+United States,District of Columbia,21140,-5,-4,11,44
+United States,Arizona,21136,-7,-7,1,52
+United States,Maryland,21153,-5,-4,11,44
+United States,Tennessee,21175,-5,-5,11,44
+United States,Wisconsin,21182,-6,-5,11,44
+United States,Missouri,21157,-6,-5,11,44
+United States,Connecticut,21139,-5,-4,11,44
+United States,Hawaii,21144,-10,-10,1,52
+United States,Indiana,21148,-5,-4,11,44
+United States,Utah,21177,-7,-6,11,44
+United States,Nevada,21166,-8,-7,11,44
+United States,South Carolina,21173,-5,-4,11,44
+United States,Louisiana,21151,-6,-5,11,44
+United States,Alabama,21133,-6,-5,11,44
+United States,Nebraska,21162,-6,-5,11,44
+United States,Kentucky,21150,-5,-4,11,44
+United States,Oklahoma,21169,-6,-5,11,44
+United States,Iowa,21145,-6,-5,11,44
+United States,Kansas,21149,-6,-5,11,44
+United States,Idaho,21146,-7,-6,11,44
+United States,Maine,21154,-5,-4,11,44
+United States,Montana,21159,-7,-6,11,44
+United States,Arkansas,21135,-6,-5,11,44
+United States,New Hampshire,21163,-5,-4,11,44
+United States,New Mexico,21165,-7,-6,11,44
+United States,Rhode Island,21172,-5,-4,11,44
+United States,Alaska,21132,-9,-8,11,44
+United States,Mississippi,21158,-6,-5,11,44
+United States,Vermont,21179,-5,-4,11,44
+United States,West Virginia,21183,-5,-4,11,44
+United States,Delaware,21141,-5,-4,11,44
+United States,North Dakota,21161,-6,-5,11,44
+United States,South Dakota,21174,-6,-5,11,44
+United States,Wyoming,21184,-7,-6,11,44
+United Kingdom,England,20339,0,1,13,43
+United Kingdom,Scotland,20342,0,1,13,43
+United Kingdom,Wales,20343,0,1,13,43
+United Kingdom,Northern Ireland,20341,0,1,13,43
+Canada,Ontario,20121,-5,-4,11,44
+Canada,British Columbia,20114,-8,-7,11,44
+Canada,Quebec,20123,-5,-4,11,44
+Canada,Alberta,20113,-7,-6,11,44
+Canada,Manitoba,20115,-6,-5,11,44
+Canada,Nova Scotia,20118,-4,-3,11,44
+Canada,Saskatchewan,20124,-6,-6,1,52
+Canada,New Brunswick,20116,-4,-3,11,44
+Canada,Newfoundland and Labrador,20117,-4.5,-3.5,11,44
+Canada,Yukon Territory,20125,-8,-7,11,44
+Canada,Prince Edward Island,20122,-4,-3,11,44
+Australia,New South Wales,20035,11,10,14,39
+Australia,Victoria,20040,11,10,14,39
+Australia,Queensland,20037,10,10,1,52
+Australia,Western Australia,20041,8,8,1,52
+Australia,South Australia,20038,10.5,9.5,14,39
+Australia,Australian Capital Territory,20034,11,10,14,39
+Australia,Tasmania,20039,11,10,14,39
+Germany,North Rhine-Westphalia,20235,1,2,13,43
+Germany,Berlin,20226,1,2,13,43
+Germany,Bavaria,20229,1,2,13,43
+Germany,Baden-Wurttemberg,20228,1,2,13,43
+Germany,Hesse,20231,1,2,13,43
+Germany,Hamburg,20232,1,2,13,43
+Germany,Lower Saxony,20234,1,2,13,43
+Germany,Rhineland-Palatinate,20236,1,2,13,43
+Germany,Saxony,20239,1,2,13,43
+Germany,Schleswig-Holstein,20237,1,2,13,43
+Germany,Bremen,20230,1,2,13,43
+Germany,Brandenburg,20227,1,2,13,43
+Netherlands,North Holland,20766,1,2,13,43
+Netherlands,South Holland,20770,1,2,13,43
+Netherlands,North Brabant,20765,1,2,13,43
+Netherlands,Utrecht,20768,1,2,13,43
+Netherlands,Gelderland,20762,1,2,13,43
+Netherlands,Limburg,20764,1,2,13,43
+Netherlands,Overijssel,20767,1,2,13,43
+Netherlands,Groningen,20763,1,2,13,43
+Netherlands,Flevoland,20760,1,2,13,43
+Netherlands,Friesland,20761,1,2,13,43
+Netherlands,Zeeland,20769,1,2,13,43
+New Zealand,Auckland,20791,13,12,14,39
+New Zealand,Canterbury,21302,13,12,14,39
+New Zealand,Wellington,21314,13,12,14,39
+New Zealand,Bay Of Plenty,20792,13,12,14,39
+New Zealand,Otago,21309,13,12,14,39
+New Zealand,Waikato,21313,13,12,14,39
+New Zealand,Manawatu-Wanganui,21305,13,12,14,39
+New Zealand,Northland,21308,13,12,14,39
+New Zealand,Nelson,21307,13,12,14,39
+New Zealand,Hawke's Bay,21304,13,12,14,39
+New Zealand,Taranaki,21311,13,12,14,39
+New Zealand,Southland,21310,13,12,14,39
+Sweden,Stockholm County,21000,1,2,13,43
+Sweden,Vastra Gotaland County,21013,1,2,13,43
+Sweden,Skane County,21011,1,2,13,43
+Sweden,Ostergotland County,21005,1,2,13,43
+Sweden,Uppsala County,21003,1,2,13,43
+Sweden,Vasterbotten County,21001,1,2,13,43
+Sweden,Norrbotten County,21002,1,2,13,43
+Sweden,Orebro County,21015,1,2,13,43
+Sweden,Dalarna County,21017,1,2,13,43
+Sweden,Varmland County,21014,1,2,13,43
+Philippines,Metro Manila,20835,8,8,1,52
+Philippines,Calabarzon,9061340,8,8,1,52
+Philippines,Central Visayas,9061344,8,8,1,52
+Philippines,Central Luzon,9061341,8,8,1,52
+Philippines,Davao Region,9061343,8,8,1,52
+Philippines,Cordillera Administrative Region,9061353,8,8,1,52
+Philippines,Western Visayas,9061342,8,8,1,52
+Philippines,Ilocos Region,9061345,8,8,1,52
+South Africa,Gauteng,21216,2,2,1,52
+South Africa,Western Cape,21222,2,2,1,52
+South Africa,KwaZulu-Natal,21219,2,2,1,52
+South Africa,Eastern Cape,21214,2,2,1,52
+South Africa,Free State,21215,2,2,1,52
+Denmark,Capital Region of Denmark,20243,1,2,13,42
+Denmark,Central Denmark Region,20254,1,2,13,42
+Denmark,Region of Southern Denmark,20252,1,2,13,42
+Denmark,Region Zealand,20245,1,2,13,42
+Denmark,North Denmark Region,20256,1,2,13,42
+France,Ile-de-France,20321,1,2,13,43
+France,Auvergne-Rhone-Alpes,9069525,1,2,13,43
+France,Provence-Alpes-Cote d'Azur,20332,1,2,13,43
+France,Occitanie,9068897,1,2,13,43
+France,Nouvelle-Aquitaine,9069522,1,2,13,43
+France,Grand Est,9068896,1,2,13,43
+France,Hauts-de-France,9068898,1,2,13,43
+France,Pays de la Loire,20329,1,2,13,43
+France,Brittany,20316,1,2,13,43
+Spain,Catalonia,20278,1,2,13,42
+Spain,Madrid,9047045,1,2,13,42
+Spain,Andalusia,20269,1,2,13,42
+Spain,Valencian Community,21388,1,2,13,42
+Spain,Canary Islands,20277,0,1,13,42
+Spain,Balearic Islands,20287,1,2,13,42
+Spain,Basque Country,20289,1,2,13,42
+Spain,Galicia,20280,1,2,13,42
+Spain,Castile and Leon,20275,1,2,13,42
+Spain,Aragon,21386,1,2,13,42
+Norway,Oslo,20773,1,2,13,43
+Norway,Hordaland,20782,1,2,13,43
+Norway,Akershus,20772,1,2,13,43
+Norway,Rogaland,20781,1,2,13,43
+Norway,Sor-Trondelag,20785,1,2,13,43
+Norway,More og Romsdal,20784,1,2,13,43
+Norway,Nordland,20787,1,2,13,43
+Norway,Vestfold,20777,1,2,13,43
+Norway,Hedmark,20774,1,2,13,43
+Switzerland,Zurich,20151,1,2,13,42
+Switzerland,Geneva,20133,1,2,13,42
+Switzerland,Vaud,20148,1,2,13,42
+Switzerland,Basel City,20131,1,2,13,42
+Switzerland,Canton of Bern,20129,1,2,13,42
+Switzerland,Lucerne,20137,1,2,13,42
+Italy,Lombardy,9053433,1,2,13,42
+Italy,Lazio,9053431,1,2,13,42
+Italy,Veneto,9053442,1,2,13,42
+Italy,Emilia-Romagna,9053429,1,2,13,42
+Italy,Tuscany,9053440,1,2,13,42
+Italy,Piedmont,9053436,1,2,13,42
+Italy,Campania,9053428,1,2,13,42
+Italy,Sicily,9053438,1,2,13,42
+Italy,Apulia,9053425,1,2,13,42
+Belgium,Flanders,9069523,1,2,13,42
+Belgium,Brussels,20052,1,2,13,42
+Belgium,Walloon Region,9069524,1,2,13,42
+Ireland,County Kerry,20483,0,0,1,52
+Ireland,Dublin City,20478,0,0,1,52
+Mexico,Mexico City,20703,-6,-5,14,42
+Mexico,Nuevo Leon,20713,-6,-5,14,42
+Mexico,Baja California,20696,-8,-7,14,42
+Mexico,Jalisco,20708,-6,-5,14,42
+Mexico,State of Mexico,20709,-6,-5,14,42
+Mexico,Sonora,20720,-7,-7,1,52
+Mexico,Quintana Roo,20717,-5,-5,1,52
+Mexico,Sinaloa,20718,-7,-6,14,42
+Mexico,Guanajuato,20706,-6,-5,14,42
+Mexico,Queretaro,20716,-6,-5,14,42
+Mexico,Yucatan,20725,-6,-5,14,42
+Israel,Tel Aviv District,20518,2,3,30,43
+Israel,Center District,20517,2,3,30,43
+Israel,Jerusalem District,20516,2,3,30,43
+Israel,Haifa District,20515,2,3,30,43
+Poland,Masovian Voivodeship,20853,1,2,43,43
+Poland,Lesser Poland Voivodeship,20852,1,2,43,43
+Poland,Lower Silesian Voivodeship,20847,1,2,43,43
+Poland,Silesian Voivodeship,20859,1,2,43,43
+Poland,Pomeranian Voivodeship,20857,1,2,43,43
+Poland,Greater Poland Voivodeship,20861,1,2,43,43
+Poland,Lodz Voivodeship,20850,1,2,43,43
+Malaysia,Federal Territory of Kuala Lumpur,20751,8,8,1,52
+Malaysia,Selangor,20738,8,8,1,52
+Malaysia,Sarawak,20749,8,8,1,52
+Malaysia,Penang,20746,8,8,1,52
+Malaysia,Johor,20741,8,8,1,52
+Malaysia,Sabah,20748,8,8,1,52
+Malaysia,Perak,20737,8,8,1,52
+Malaysia,Negeri Sembilan,20745,8,8,1,52
+India,Maharashtra,20462,5.5,5.5,1,52
+India,Delhi,20456,5.5,5.5,1,52
+India,Karnataka,20460,5.5,5.5,1,52
+India,Tamil Nadu,20469,5.5,5.5,1,52
+India,Telangana,9061642,5.5,5.5,1,52
+India,West Bengal,20472,5.5,5.5,1,52
+India,Gujarat,20457,5.5,5.5,1,52
+India,Uttar Pradesh,20471,5.5,5.5,1,52
+India,Kerala,20461,5.5,5.5,1,52
+India,Madhya Pradesh,20464,5.5,5.5,1,52
+India,Haryana,20458,5.5,5.5,1,52
+India,Rajasthan,20468,5.5,5.5,1,52
+Czechia,Prague,21502,1,2,13,43
+Czechia,South Moravian Region,20219,1,2,13,43
+Czechia,Moravian-Silesian Region,21498,1,2,13,43
+Romania,Suceava County,20910,2,2,1,52
+Indonesia,Jakarta,20440,7,7,1,52
+Indonesia,East Java,20439,7,7,1,52
+Indonesia,West Java,20438,7,7,1,52
+Indonesia,Bali,20436,8,8,1,52
+Indonesia,North Sumatra,20450,7,7,1,52
+Indonesia,Banten,9056637,7,7,1,52
+Indonesia,Central Java,20441,7,7,1,52
+Indonesia,South Sulawesi,20448,8,8,1,52
+United Arab Emirates,Dubai,9041083,4,4,1,52
+United Arab Emirates,Abu Dhabi,9041082,4,4,1,52
+Turkey,Istanbul,21069,3,3,1,52
+Turkey,Ankara,21055,3,3,1,52
+Turkey,Izmir,21070,3,3,1,52
+Turkey,Antalya,21056,3,3,1,52
+Turkey,Adana,21052,3,3,1,52
+Turkey,Bursa,21060,3,3,1,52
+Greece,Attica,9061582,2,3,13,43
+Greece,Central Macedonia,9061584,2,3,13,43
+Greece,Decentralized Administration of Attica,9069538,2,3,13,43
+Japan,Tokyo,20636,9,9,1,52
+Japan,Osaka Prefecture,20650,9,9,1,52
+Japan,Kanagawa Prefecture,20637,9,9,1,52
+Japan,Okinawa Prefecture,20670,9,9,1,52
+Japan,Hyogo Prefecture,20651,9,9,1,52
+Argentina,Buenos Aires,20010,-3,-3,1,52
+Argentina,Buenos Aires Province,20009,-3,-3,1,52
+Croatia,City of Zagreb,21493,1,2,13,43
+Croatia,Primorje-Gorski Kotar County,20408,1,2,13,43
+Bulgaria,Sofia City Province,9047101,2,3,42,42
+Bulgaria,Varna,9040118,2,3,42,42
+Bulgaria,Plovdiv Province,9040109,2,3,42,42
+Colombia,Bogota,20203,-5,-5,1,52
+Colombia,Antioquia,20198,-5,-5,1,52
+Colombia,Atlantico,20199,-5,-5,1,52
+Thailand,Bangkok,21025,7,7,1,52
+Saudi Arabia,Riyadh Province,20987,3,3,1,52
+Saudi Arabia,Makkah Province,20988,3,3,1,52
+Saudi Arabia,Eastern Province,20989,3,3,1,52
+Chile,O'Higgins Region,20156,-3,-3,1,52
+Costa Rica,San Jose Province,9070296,-6,-6,1,52
+Costa Rica,Guanacaste Province,9070297,-6,-6,1,52
+China,Shanghai,20171,8,8,1,52
+China,Guangdong,20181,8,8,1,52
+South Korea,Seoul,21318,9,9,1,52
+South Korea,Gyeonggi-do,21325,9,9,1,52
+Egypt,Cairo Governorate,21468,2,2,1,52
+Egypt,Giza Governorate,21465,2,2,1,52
+Egypt,Alexandria Governorate,21463,2,2,1,52
+Vietnam,Ho Chi Minh City,9040373,7,7,1,52
+Vietnam,Hanoi,9040331,7,7,1,52
+Ukraine,Dnipropetrovsk Oblast,21112,2,2,1,52
+Russia,Moscow,20950,3,3,1,52
+Russia,Saint Petersburg,20968,3,3,1,52
+Qatar,Doha,9069542,3,3,1,52
+Pakistan,Punjab,9061357,5,5,1,52
+Pakistan,Sindh,9061356,5,5,1,52
+Iceland,Capital Region,9069815,0,0,1,52
+Puerto Rico,San Juan,9069650,-4,-4,1,52
+Panama,Panama,9069751,-5,-5,1,52
+Taiwan,Taipei City,9040379,8,8,1,52
+Guatemala,Guatemala Department,9069801,-6,-6,1,52
+Brunei,Brunei-Muara District,9070436,8,8,1,52
+Dominican Republic,Distrito Nacional,9069760,-4,-4,1,52
+Nigeria,Lagos,21564,1,1,1,52
+Nigeria,Federal Capital Territory,21541,1,1,1,52
+Kuwait,Al Asimah Governate,9069551,3,3,1,52
+Kuwait,Hawalli Governorate,9069549,3,3,1,52
+Myanmar (Burma),Yangon Region,9065353,6.5,6.5,1,52
+Myanmar (Burma),Mandalay Region,9065352,6.5,6.5,1,52
+Sri Lanka,Western Province,9069783,5.5,5.5,1,52
+Kenya,Nairobi County,9069738,3,3,1,52
+Ecuador,Pichincha,20264,-5,-5,1,52
+Bahrain,Capital Governorate,9069830,3,3,1,52
+Georgia,Tbilisi,9069841,4,4,1,52
+Mauritius,Plaines Wilhems District,9070415,4,4,1,52
+Venezuela,Capital District,21188,-4,-4,1,52
+Peru,Lima Region,20808,-5,-5,1,52
+Oman,Muscat Governorate,9069735,4,4,1,52
+Bangladesh,Dhaka Division,9070356,6,6,1,52
+Cambodia,Phnom Penh,9070398,7,7,1,52
+Bolivia,La Paz Department,20084,-4,-4,1,52
